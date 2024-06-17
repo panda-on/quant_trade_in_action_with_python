@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 ./tz-cache/*
-./yfinance.cache
+yfinance.cache
