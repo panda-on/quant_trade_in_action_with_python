@@ -163,3 +163,4 @@ cython_debug/
 
 ./tz-cache/*
 yfinance.cache
+.DS_Store
